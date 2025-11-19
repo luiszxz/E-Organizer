@@ -16,10 +16,10 @@ This project demonstrates proficiency in Python GUI development, file system ope
 Key Features
 Batch Sorting: Quickly processes hundreds of files in a single run.
 - Category-Based Organization: Supports four main categories:
-  - Audios 🎵
-  - Documents 📝
-  - Images 🖼️
-  - Videos 🎥
+  - Audios 
+  - Documents 
+  - Images 
+  - Videos 
 - Automatic Folder Creation: Creates destination folders only if needed.
 - Live Status Update: Displays the total file count, files moved, and files left in real-time during the organization process.
 - Pre-Organization Scan: Shows a breakdown of file types found in the directory before starting the sorting process.
